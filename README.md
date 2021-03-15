@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chaurasiarohit i am a Computer Science Student, its my last year.
-- 👀 I’m interested in Andriod Development, IOS development, Web Development, Cloud Computing and Data Scientists.
+- 👀 I’m interested in Andriod Development, IOS development, Web Development, Cloud Computing and Data Science.
 - 🌱 I’m currently learning Full Stack Development and Object Oriented Languages.
 - 💞️ I’m looking to collaborate on Some development projects
 - 📫 How to reach me rohitchaurasia1199@gmail.com 
